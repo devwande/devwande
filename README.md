@@ -61,6 +61,20 @@ Node.js, Python, MongoDB, Git/GitHub
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=devwande&show_icons=true&theme=tokyonight" alt="Wande's GitHub Stats" style="margin-bottom: 20px;" width="70%" />
+</p>
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devwande&theme=tokyonight" alt="GitHub Streak" width="50%" />
+</p>
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwande&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+---
+
 ## 🎯 Fun Facts
 
 - ⚽ I play football in my free time.
