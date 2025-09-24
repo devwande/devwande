@@ -29,7 +29,10 @@ Node.js, Python, MongoDB, Git/GitHub
 - **[Whossy Web App](https://whossy-web-app-staging.vercel.app/):**  
   Modern dating platform with Firebase authentication, animated transitions, and microinteractions (↑25% engagement).
 
-- **[Arch-Studio](https://arch-studio-1.vercel.app/):**  
+- **[Divyd Africa](https://divyd.africa):**  
+ Developed and launched the landing page for Divyd, ensuring a responsive, modern, and user-friendly design.
+
+- **[Arch-Studio](https://arch-studio-nu.vercel.app/):**  
   Visually immersive architecture landing with Framer Motion & AOS scroll animations.
 
 - **[Game Hub](https://gamehub-w.vercel.app/):**  
