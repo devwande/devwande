@@ -51,8 +51,8 @@ Node.js, Python, MongoDB, Git/GitHub
 - **Frontend Engineer Intern** @ First Bank of Nigeria  
   <sub>Mar 2024 – Sep 2024</sub>
 
-- **Shopify Developer (Freelance)** @ Enchant Gifts  
-  <sub>Jan 2025 – Present</sub>
+- **Frontend Engineer (Startup)** @ Divyd Africa  
+  <sub>Aug 2025 - Present</sub>
 
 ---
 
