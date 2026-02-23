@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Gojo.jpeg" alt="Header Banner" width="100%" height="50%" />
+  <img src="./Gojo.jpeg" alt="Header Banner" width="100%" height="350px" />
 </p>
 
 ---
